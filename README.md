@@ -16,6 +16,8 @@ Veja a pasta [`docs/`](docs/):
 
 - [`docs/proposta.md`](docs/proposta.md)
 
+O que falta fazer está em [`lucerna-routine — Pendências.md`](<lucerna-routine — Pendências.md>).
+
 ## Repositório
 
 A branch `main` é protegida por um ruleset igual ao do `lucerna-shell`: PR obrigatório, conversas resolvidas, só merge commit, sem deleção nem force push. Os checks obrigatórios entram quando houver CI.
